@@ -1,5 +1,7 @@
 # Docker Image Creation and Security Project
+## Project Screenshot
 
+![DevOps Portfolio Website](website-v1.png)
 ## 1. Project Overview
 
 This project demonstrates how to build, version, run, inspect, and secure Docker images using a static DevOps portfolio website served by Nginx.
